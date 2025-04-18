@@ -1,4 +1,4 @@
-module github.com/allegro/gathersrv
+module github.com/ziollek/gathersrv
 
 go 1.24
 
